@@ -1,1 +1,1 @@
-return {"4365ter", "test"}
+print("Test")
